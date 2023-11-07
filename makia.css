@@ -1,0 +1,15 @@
+.cal{
+ text-align: center;
+ color: rgb(8, 8, 8);
+ margin-top: 15%;
+ background-color: rgb(248, 248, 250);
+}
+.sapa{
+    background-color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+}
+.interpretacion{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(247, 10, 10);  
+}
